@@ -1,0 +1,39 @@
+{
+    "Usuario":[
+        {   "ID":1,
+            "Nombre":"Luis",
+            "Apellido":"Ramirez",
+            "Teléfono":"096983568",
+            "Cédula":"34563457",
+            "Email":"ramirezluis56@gmail.com"
+        },
+        {   "ID":2,
+            "Nombre":"María",
+            "Apellido":"Gonzalez",
+            "Teléfono":"092923008",
+            "Cédula":"31561159",
+            "Email":"gonzalezmaria88@gmail.com"
+        },
+        {   "ID":3,
+            "Nombre":"Pedro",
+            "Apellido":"Ferreira",
+            "Teléfono":"091953527",
+            "Cédula":"35768452",
+            "Email":"ferreirapedro76@gmail.com"
+        },
+        {   "ID":4,
+            "Nombre":"Ana",
+            "Apellido":"Rodriguez",
+            "Teléfono":"095883100",
+            "Cédula":"34060453",
+            "Email":"rodriguezana69@gmail.com"
+        },
+        {   "ID":5,
+            "Nombre":"Antonio",
+            "Apellido":"Bermudes",
+            "Teléfono":"092933588",
+            "Cédula":"30163459",
+            "Email":"bermudesantonio85@gmail.com"
+        }
+    ]
+}
